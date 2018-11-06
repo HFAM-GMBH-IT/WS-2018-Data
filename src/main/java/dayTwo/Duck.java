@@ -4,7 +4,7 @@ public class Duck extends Animal implements Swimmable, Flyable {
 
 	@Override
 	public void fly() {
-		System.out.println("Flap Flap Flap");
+		System.out.println("The duck goes flap, flap, flap");
 	}
 
 	@Override
